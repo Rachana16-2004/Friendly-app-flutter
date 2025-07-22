@@ -93,7 +93,7 @@ Run the app:
 flutter run
 
 output:
-![image alt](
+![image alt](https://github.com/Rachana16-2004/Friendly-app-flutter/blob/main/Screenshot%202025-07-22%20121435.png?raw=true)
 
 
 
