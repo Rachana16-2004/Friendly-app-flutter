@@ -91,6 +91,14 @@ Configure Supabase Storage for image uploads
 
 Run the app:
 flutter run
+
+output:
+
+
+
+
+
+
 🔐 Supabase Table Schema (Basic Overview)
 posts
 Column	Type
