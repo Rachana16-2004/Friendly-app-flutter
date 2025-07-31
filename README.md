@@ -116,6 +116,3 @@ post_id	UUID
 user_id	UUID
 reason	Text
 created_at	Timestamp
-
-
-
