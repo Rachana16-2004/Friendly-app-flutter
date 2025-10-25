@@ -46,7 +46,7 @@ lib/
 │ ├── edit_post_page.dart
 │ └── comments_page.dart
 ├── widgets/
-│ ├── post_card.dart
+│ ├── post_card.dart 
 │ └── comment_tile.dart
 └── services/
 └── supabase_service.dart
