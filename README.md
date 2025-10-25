@@ -6,7 +6,7 @@ A new Flutter project.
 A social media-style Flutter application backed by Supabase. This app allows users to:
 
 - ✅ Post status updates
-- 👀 View a feed of friends' activities
+- 👀 View a feed of friends' activities 
 - ❤️ Like and 💬 comment on posts
 - 🚩 Report inappropriate content for moderation
 
