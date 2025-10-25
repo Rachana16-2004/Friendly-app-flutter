@@ -10,7 +10,7 @@ A social media-style Flutter application backed by Supabase. This app allows use
 - ❤️ Like and 💬 comment on posts
 - 🚩 Report inappropriate content for moderation
 
-## 🚀 Features
+## 🚀 Features 
 
 - **User Authentication** (Supabase Auth)
 - **Post Creation & Editing**
