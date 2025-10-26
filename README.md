@@ -1,5 +1,5 @@
 # app
-
+ 
 A new Flutter project. 
 # 🧑‍🤝‍🧑 Friendly App - Social Feed with Flutter & Supabase
  
