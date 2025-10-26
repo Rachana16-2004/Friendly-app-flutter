@@ -55,7 +55,7 @@ lib/
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**:
-
+ 
    ```bash
    git clone https://github.com/yourusername/friendly-app-flutter.git
    cd friendly-app-flutter
