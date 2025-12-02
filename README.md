@@ -13,7 +13,7 @@ A social media-style Flutter application backed by Supabase. This app allows use
 ## 🚀 Features 
 
 - **User Authentication** (Supabase Auth)
-- **Post Creation & Editing**
+- **Post Creation & Editing** 
 - **Real-time Feed of Friends' Posts**
 - **Like and Comment System**
 - **Post Deletion**
