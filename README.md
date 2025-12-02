@@ -11,7 +11,7 @@ A social media-style Flutter application backed by Supabase. This app allows use
 - 🚩 Report inappropriate content for moderation 
 
 ## 🚀 Features 
-
+ 
 - **User Authentication** (Supabase Auth)
 - **Post Creation & Editing** 
 - **Real-time Feed of Friends' Posts**
