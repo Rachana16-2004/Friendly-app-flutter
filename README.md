@@ -4,7 +4,7 @@ A new Flutter project.
 # 🧑‍🤝‍🧑 Friendly App - Social Feed with Flutter & Supabase
  
 A social media-style Flutter application backed by Supabase. This app allows users to:
-      
+       
 - ✅ Post status updates 
 - 👀 View a feed of friends' activities 
 - ❤️ Like and 💬 comment on posts 
